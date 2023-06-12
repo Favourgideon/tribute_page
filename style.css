@@ -1,0 +1,35 @@
+body{
+    background-color: #00FA9A;
+    margin: 20%;
+    border-top-width: none;
+    text-align: center;
+    
+    } 
+  
+ Adbuls-image{
+   background-color: #1a9b83;
+   width: 100%;
+   margin: 50px auto 0;
+   
+   }
+h3{
+text-align: center;
+text-shadow: 5px 5px 10px white;
+font-size: 7vh;
+color: aliceblue;
+}
+text{
+    clear: left;
+}
+p{
+        background-color: rgb(46, 139, 87, 0.25);
+        box-shadow: 20px 20px 20px #98FB98;
+        font-family: Georgia;
+        padding: 25px 25px;
+        margin: 11px;
+        margin-top: 50px;
+        
+}
+tribute-link{
+    color: black;
+}
